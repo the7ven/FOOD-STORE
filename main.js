@@ -12,5 +12,4 @@
   ScrollReveal().reveal('.offer1', { delay: 500, origin: 'left' });
   ScrollReveal().reveal('.menu-title', { delay: 600, origin: 'bottom', interval: 200 });
   ScrollReveal().reveal('.container', { delay: 500, origin: 'top' });
-  
   ScrollReveal().reveal('footer', { delay: 500, origin: 'bottom' });
